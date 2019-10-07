@@ -1,0 +1,6 @@
+{
+  "name": "3. WebCam Server",
+  "script_path": "./CameraPoller.py",
+  "description": "Serve webcam through http",
+  "working_directory": "./CameraServer/"
+}

@@ -1,0 +1,12 @@
+id:110
+user_name:localhost
+user_id:127.0.0.1
+script:ICAN Image Collection Service
+start_time:1570426379469
+command:/home/cppxaxa/Downloads/ICAN/ScriptServer/ImageDescriptors/CameraTextDescriptor.py --modify Parse test_image.jpg
+exit_code:1
+>>>>>  OUTPUT STARTED <<<<<
+Traceback (most recent call last):
+  File "/home/cppxaxa/Downloads/ICAN/ScriptServer/ImageDescriptors/CameraTextDescriptor.py", line 28, in <module>
+    unitVal = unitVal.split(',')
+AttributeError: 'NoneType' object has no attribute 'split'

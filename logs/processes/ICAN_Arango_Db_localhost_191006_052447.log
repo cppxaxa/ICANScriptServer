@@ -1,0 +1,30 @@
+id:55
+user_name:localhost
+user_id:127.0.0.1
+script:ICAN Arango Db
+start_time:1570339487174
+command:/home/cppxaxa/Downloads/ICAN/ScriptServer/ArangoDb/arangodb3-3.5.0/usr/sbin/arangod
+exit_code:0
+>>>>>  OUTPUT STARTED <<<<<
+[0m2019-10-06T05:24:48Z [4240] INFO [e52b0] ArangoDB 3.5.0 [linux] 64bit, using jemalloc, build tags/v3.5.0-0-gc42dbe8547, VPack 0.1.33, RocksDB 6.2.0, ICU 58.1, V8 7.1.302.28, OpenSSL 1.1.0k  28 May 2019
+[0m[0m2019-10-06T05:24:48Z [4240] INFO [75ddc] detected operating system: Linux version 4.18.0-18-generic (buildd@lcy01-amd64-006) (gcc version 7.3.0 (Ubuntu 7.3.0-16ubuntu3)) #19~18.04.1-Ubuntu SMP Fri Apr 5 10:22:13 UTC 2019
+[0m[33m2019-10-06T05:24:48Z [4240] WARNING [118b0] {memory} maximum number of memory mappings per process is 65530, which seems too low. it is recommended to set it to at least 256000
+[0m[33m2019-10-06T05:24:48Z [4240] WARNING [49528] {memory} execute 'sudo sysctl -w "vm.max_map_count=256000"'
+[0m[0m2019-10-06T05:24:49Z [4240] INFO [43396] {authentication} Jwt secret not specified, generating...
+[0m[0m2019-10-06T05:24:49Z [4240] INFO [144fe] using storage engine rocksdb
+[0m[0m2019-10-06T05:24:49Z [4240] INFO [3bb7d] {cluster} Starting up with role SINGLE
+[0m[0m2019-10-06T05:24:49Z [4240] INFO [a1c60] {syscall} file-descriptors (nofiles) hard limit is 4096, soft limit is 1024
+[0m[33m2019-10-06T05:24:49Z [4240] WARNING [8c771] {syscall} file-descriptors limit is too low, currently 1024, please raise to at least 8192 (e.g. ulimit -n 8192)
+[0m[0m2019-10-06T05:24:49Z [4240] INFO [3844e] {authentication} Authentication is turned on (system only), authentication for unix sockets is turned on
+[0m[0m2019-10-06T05:24:53Z [4240] INFO [6ea38] using endpoint 'http+tcp://127.0.0.1:8529' for non-encrypted requests
+[0m[0m2019-10-06T05:24:54Z [4240] INFO [cf3f4] ArangoDB (version 3.5.0 [linux]) is ready for business. Have fun!
+[0m[0m2019-10-06T05:31:36Z [4240] INFO [f0948] {communication} keep alive timeout - closing stream!
+[0m[0m2019-10-06T05:31:36Z [4240] INFO [f0948] {communication} keep alive timeout - closing stream!
+[0m[0m2019-10-06T05:31:36Z [4240] INFO [f0948] {communication} keep alive timeout - closing stream!
+[0m[0m2019-10-06T05:31:37Z [4240] INFO [f0948] {communication} keep alive timeout - closing stream!
+[0m[0m2019-10-06T05:32:05Z [4240] INFO [f0948] {communication} keep alive timeout - closing stream!
+[0m
+>> STOPPED BY USER
+[0m2019-10-06T05:32:15Z [4240] INFO [b4133] control-c received, beginning shut down sequence
+[0m[0m2019-10-06T05:32:16Z [4240] INFO [4bcb9] ArangoDB has been shut down
+[0m

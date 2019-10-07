@@ -1,0 +1,29 @@
+id:6
+user_name:localhost
+user_id:127.0.0.1
+script:destroy_world
+start_time:1570265297371
+command:/home/cppxaxa/Downloads/ICAN/ScriptServer/samples/scripts/destroy_world.py
+exit_code:-15
+>>>>>  OUTPUT STARTED <<<<<
+
+Stars are born, they live, and they die. The sun is no different, and when it goes, the Earth goes with
+it. But our planet won't go quietly into the night.
+
+Want to continue? Y/N
+y
+put correct answer
+Y
+Rather, when the sun expands into a red giant during the throes of death, it will vaporize the Earth.
+
+Want to continue? Y/N
+Y
+Perhaps not the story you were hoping for, but there's no need to start buying star-death insurance yet.
+The time scale is long — 7 billion or 8 billion years from now, at least. Humans have been around only
+about 40-thousandth that amount of time; if the age of the Earth were compressed into a 24-hour day, humans
+would occupy only the last second, at most. If contemplating stellar lifetimes does nothing else, it should
+underscore the existential insignificance of our lives. [What If Earth Were Twice as Big?]
+
+Want to continue? Y/N
+
+>> STOPPED BY USER

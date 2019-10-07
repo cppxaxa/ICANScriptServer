@@ -1,0 +1,6 @@
+{
+  "name": "1. ICAN Task Executer Service",
+  "script_path": "./ServerWin.py",
+  "description": "This service takes commands from BrokerHub for execution",
+  "working_directory": "./PyTaskExecuterService"
+}

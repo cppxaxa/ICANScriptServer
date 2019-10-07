@@ -1,0 +1,24 @@
+{
+  "name": "4. ICAN Image Collection Service",
+  "script_path": "./CameraTextDescriptor.py",
+  "description": "This service reads cameras available at CameraTextDescriptor.json and populates db",
+  "working_directory": "./ImageDescriptors",
+  "parameters": [
+    {
+      "name": "Modify Configuration Mode",
+      "param": "--modify",
+      "description": "Add/Delete configuration",
+      "type": "list",
+      "values": [
+        "Normal Run",
+        "Add",
+        "Remove by name",
+        "Parse test_image.jpg"
+      ]
+    },
+    {
+      "name": "Tuple {name},{url}",
+      "param": "--tuple"
+    }
+  ]
+}

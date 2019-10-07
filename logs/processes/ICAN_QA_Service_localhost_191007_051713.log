@@ -1,0 +1,28 @@
+id:106
+user_name:localhost
+user_id:127.0.0.1
+script:ICAN QA Service
+start_time:1570425433914
+command:/home/cppxaxa/Downloads/ICAN/ScriptServer/ImageDescriptors/QAService.py
+exit_code:-15
+>>>>>  OUTPUT STARTED <<<<<
+Did not use initialization regex that was passed: .*bias_hh.*
+Did not use initialization regex that was passed: .*weight_hh.*
+Did not use initialization regex that was passed: .*weight_ih.*
+Did not use initialization regex that was passed: .*bias_ih.*
+MML model file for initializing weights is passed, but does not exist. This is fine if you're just decoding.
+ * Serving Flask app "QAService" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: off
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+WARNING:allennlp.data.fields.sequence_label_field:Your label namespace was 'pos'. We recommend you use a namespace ending with 'labels' or 'tags', so we don't add UNK and PAD tokens by default to your vocabulary.  See documentation for `non_padded_namespaces` parameter in Vocabulary.
+WARNING:allennlp.models.model:Encountered the action_mapping key in the model's return dictionary which couldn't be split by the batch size. Key will be ignored.
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2019 10:47:19] "[37mGET /qa?cam=5&question=Hello HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2019 10:49:08] "[37mGET /qa?cam=5&question=What%20is%20there? HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2019 10:49:25] "[37mGET /qa?cam=5&question=What%20is%20going%20on HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2019 10:49:41] "[37mGET /qa?cam=5&question=What%20is%20the%20person%20doing? HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Oct/2019 10:50:18] "[37mGET /qa?cam=5&question=What%20is%20the%20man%20doing? HTTP/1.1[0m" 200 -
+
+>> STOPPED BY USER

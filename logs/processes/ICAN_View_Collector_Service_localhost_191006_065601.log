@@ -1,0 +1,9 @@
+id:84
+user_name:localhost
+user_id:127.0.0.1
+script:ICAN View Collector Service
+start_time:1570344961232
+command:/home/cppxaxa/Downloads/ICAN/ScriptServer/ImageDescriptors/CameraTextDescriptor.py
+exit_code:0
+>>>>>  OUTPUT STARTED <<<<<
+1

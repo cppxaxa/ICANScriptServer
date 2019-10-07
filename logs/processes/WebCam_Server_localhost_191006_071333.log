@@ -1,0 +1,69 @@
+id:98
+user_name:localhost
+user_id:127.0.0.1
+script:WebCam Server
+start_time:1570346013793
+command:/home/cppxaxa/Downloads/ICAN/ScriptServer/CameraServer/CameraPoller.py
+exit_code:-15
+>>>>>  OUTPUT STARTED <<<<<
+ * Serving Flask app "CameraPoller" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: off
+ * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Oct/2019 12:43:49] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:43:53] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:43:56] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:43:57] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:43:59] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:00] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:02] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:03] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:03] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+[2019-10-06 12:44:03,471] ERROR in app: Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/home/cppxaxa/.local/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/cppxaxa/.local/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/cppxaxa/.local/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/cppxaxa/.local/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/cppxaxa/.local/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/cppxaxa/.local/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/cppxaxa/Downloads/ICAN/ScriptServer/CameraServer/CameraPoller.py", line 87, in get
+    id = int(id)
+ValueError: invalid literal for int() with base 10: 'favicon.ico'
+127.0.0.1 - - [06/Oct/2019 12:44:03] "[1m[35mGET /favicon.ico HTTP/1.1[0m" 500 -
+127.0.0.1 - - [06/Oct/2019 12:44:04] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:05] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:07] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:09] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:10] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:13] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:14] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:16] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:17] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:18] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:19] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:21] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:22] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:24] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:25] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:26] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:28] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:29] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:30] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:32] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:33] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:35] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:37] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:38] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:39] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Oct/2019 12:44:42] "[37mGET /0.jpg HTTP/1.1[0m" 200 -
+
+>> STOPPED BY USER

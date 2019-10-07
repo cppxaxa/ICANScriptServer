@@ -1,0 +1,15 @@
+id:12
+user_name:localhost
+user_id:127.0.0.1
+script:destroy_world
+start_time:1570265957977
+command:/home/cppxaxa/Downloads/ICAN/ScriptServer/samples/scripts/destroy_world.py
+exit_code:-15
+>>>>>  OUTPUT STARTED <<<<<
+
+Stars are born, they live, and they die. The sun is no different, and when it goes, the Earth goes with
+it. But our planet won't go quietly into the night.
+
+Want to continue? Y/N
+
+>> STOPPED BY USER

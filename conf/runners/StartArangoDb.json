@@ -1,0 +1,6 @@
+{
+  "name": "2. ICAN Arango Db",
+  "script_path": "./usr/sbin/arangod",
+  "description": "This database stores the data",
+  "working_directory": "./ArangoDb/arangodb3-3.5.0"
+}

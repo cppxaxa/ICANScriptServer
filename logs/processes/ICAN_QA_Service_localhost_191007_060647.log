@@ -1,0 +1,22 @@
+id:125
+user_name:localhost
+user_id:127.0.0.1
+script:ICAN QA Service
+start_time:1570428407955
+command:/home/cppxaxa/Downloads/ICAN/ICANScriptServer/ImageDescriptors/QAService.py
+exit_code:-15
+>>>>>  OUTPUT STARTED <<<<<
+Did not use initialization regex that was passed: .*weight_ih.*
+Did not use initialization regex that was passed: .*weight_hh.*
+Did not use initialization regex that was passed: .*bias_ih.*
+Did not use initialization regex that was passed: .*bias_hh.*
+MML model file for initializing weights is passed, but does not exist. This is fine if you're just decoding.
+Sample call: /qa?cam=5&question=Hello
+ * Serving Flask app "QAService" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: off
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+
+>> STOPPED BY USER

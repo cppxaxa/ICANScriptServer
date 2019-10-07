@@ -1,0 +1,8 @@
+id:112
+user_name:localhost
+user_id:127.0.0.1
+script:ICAN Image Collection Service
+start_time:1570426503496
+command:/home/cppxaxa/Downloads/ICAN/ScriptServer/ImageDescriptors/CameraTextDescriptor.py --modify Parse test_image.jpg
+exit_code:0
+>>>>>  OUTPUT STARTED <<<<<

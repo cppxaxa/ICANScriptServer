@@ -1,0 +1,14 @@
+id:128
+user_name:localhost
+user_id:127.0.0.1
+script:ICAN QA Service
+start_time:1570429646405
+command:/home/cppxaxa/Downloads/ICAN/ICANScriptServer/ImageDescriptors/QAService.py
+exit_code:1
+>>>>>  OUTPUT STARTED <<<<<
+Traceback (most recent call last):
+  File "/home/cppxaxa/Downloads/ICAN/ICANScriptServer/ImageDescriptors/QAService.py", line 7, in <module>
+    questionParser = QuestionParserFactory.GetQuestionParser()
+  File "/home/cppxaxa/Downloads/ICAN/ICANScriptServer/ImageDescriptors/QuestionParser.py", line 946, in GetQuestionParser
+    VBZ_NSUBJ_NN_DET_DT = VBZ_NSUBJ_NN_DET_DT_Class()
+NameError: name 'VBZ_NSUBJ_NN_DET_DT_Class' is not defined

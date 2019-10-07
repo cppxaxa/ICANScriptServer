@@ -1,0 +1,30 @@
+> Adding image store on Redis,
+with auto purge
+
+
+> Adding Validators,
+	Create a file with python code in ImageDescriptors and wait it to delete the file
+
+> ImageDescriptors
+	As soon as you find a validator code, read and delete and add execution in loop
+
+> Validator
+	Get last entered sentence
+	Query:
+for d in icansee_cam_5
+    let t = d['goingon']
+    let toks = tokens(t, "text_en")
+    for tok in toks
+        filter tok not in ["a", "in", "and", "of", "is", "his", "her", "he", "on", "the", "at", "up", "for", "are", "it", "has"]
+        collect token = tok with count into cvar
+        
+sort cvar, token
+let perc = cvar / count(icansee_cam_5) * 100
+filter perc <= 2.0
+return { "token": token, "count": cvar, "percentage": perc }
+
+and check if any token matches, then alert
+
+	Store alert timestamp, and post image and alert info. Don't send new alert within 8 secs.
+
+

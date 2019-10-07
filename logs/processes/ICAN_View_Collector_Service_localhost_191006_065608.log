@@ -1,0 +1,9 @@
+id:86
+user_name:localhost
+user_id:127.0.0.1
+script:ICAN View Collector Service
+start_time:1570344968355
+command:/home/cppxaxa/Downloads/ICAN/ScriptServer/ImageDescriptors/CameraTextDescriptor.py --modify Add --tuple dd
+exit_code:0
+>>>>>  OUTPUT STARTED <<<<<
+5

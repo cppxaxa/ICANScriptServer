@@ -1,0 +1,38 @@
+id:82
+user_name:localhost
+user_id:127.0.0.1
+script:Very parameterized
+start_time:1570344152189
+command:/home/cppxaxa/Downloads/ICAN/ScriptServer/samples/scripts/parameterized.sh --simple_text nnn --required_text nnn --required_list v2 --constrained_int 5 --def_text some_text --def_bool --const_text constOne --secure_list ****** ****** ****** --audit_name localhost --ip4 127.0.0.1 --recurs_file ******
+exit_code:0
+>>>>>  OUTPUT STARTED <<<<<
+--simple_text nnn --required_text nnn --required_list v2 --constrained_int 5 --def_text some_text --def_bool --const_text constOne --secure_list ****** ****** ****** --audit_name localhost --ip4 127.0.0.1 --recurs_file ******
+
+Arguments:
+--simple_text
+nnn
+--required_text
+nnn
+--required_list
+v2
+--constrained_int
+5
+--def_text
+some_text
+--def_bool
+--const_text
+constOne
+--secure_list
+******
+******
+******
+--audit_name
+localhost
+--ip4
+127.0.0.1
+--recurs_file
+******
+
+recurs_file=e5569406261b86ba4de60d64aaf8f4ba ******
+
+--file_upload is empty

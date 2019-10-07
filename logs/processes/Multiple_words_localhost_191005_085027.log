@@ -1,0 +1,12 @@
+id:8
+user_name:localhost
+user_id:127.0.0.1
+script:Multiple words
+start_time:1570265427190
+command:/home/cppxaxa/Downloads/ICAN/ScriptServer/samples/scripts/mult words.py 1 word 2  word4 -p1 10 -p2 a single parameter
+exit_code:1
+>>>>>  OUTPUT STARTED <<<<<
+  File "/home/cppxaxa/Downloads/ICAN/ScriptServer/samples/scripts/mult words.py", line 7
+    print '- ' + word
+             ^
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print('- ' + word)?

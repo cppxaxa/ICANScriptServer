@@ -1,0 +1,70 @@
+id:96
+user_name:localhost
+user_id:127.0.0.1
+script:colortest
+start_time:1570345961817
+command:/home/cppxaxa/Downloads/ICAN/ScriptServer/samples/scripts/colortest.sh
+exit_code:0
+>>>>>  OUTPUT STARTED <<<<<
+
+                    40m       41m       42m       43m       44m       45m       46m       47m       49m
+     m [m  Co10r   [40m  Co10r  [0m [41m  Co10r  [0m [42m  Co10r  [0m [43m  Co10r  [0m [44m  Co10r  [0m [45m  Co10r  [0m [46m  Co10r  [0m [47m  Co10r  [0m [49m  Co10r  [0m
+   30m [30m  Co10r   [30;40m  Co10r  [0m [30;41m  Co10r  [0m [30;42m  Co10r  [0m [30;43m  Co10r  [0m [30;44m  Co10r  [0m [30;45m  Co10r  [0m [30;46m  Co10r  [0m [30;47m  Co10r  [0m [30;49m  Co10r  [0m
+   31m [31m  Co10r   [31;40m  Co10r  [0m [31;41m  Co10r  [0m [31;42m  Co10r  [0m [31;43m  Co10r  [0m [31;44m  Co10r  [0m [31;45m  Co10r  [0m [31;46m  Co10r  [0m [31;47m  Co10r  [0m [31;49m  Co10r  [0m
+   32m [32m  Co10r   [32;40m  Co10r  [0m [32;41m  Co10r  [0m [32;42m  Co10r  [0m [32;43m  Co10r  [0m [32;44m  Co10r  [0m [32;45m  Co10r  [0m [32;46m  Co10r  [0m [32;47m  Co10r  [0m [32;49m  Co10r  [0m
+   33m [33m  Co10r   [33;40m  Co10r  [0m [33;41m  Co10r  [0m [33;42m  Co10r  [0m [33;43m  Co10r  [0m [33;44m  Co10r  [0m [33;45m  Co10r  [0m [33;46m  Co10r  [0m [33;47m  Co10r  [0m [33;49m  Co10r  [0m
+   34m [34m  Co10r   [34;40m  Co10r  [0m [34;41m  Co10r  [0m [34;42m  Co10r  [0m [34;43m  Co10r  [0m [34;44m  Co10r  [0m [34;45m  Co10r  [0m [34;46m  Co10r  [0m [34;47m  Co10r  [0m [34;49m  Co10r  [0m
+   35m [35m  Co10r   [35;40m  Co10r  [0m [35;41m  Co10r  [0m [35;42m  Co10r  [0m [35;43m  Co10r  [0m [35;44m  Co10r  [0m [35;45m  Co10r  [0m [35;46m  Co10r  [0m [35;47m  Co10r  [0m [35;49m  Co10r  [0m
+   36m [36m  Co10r   [36;40m  Co10r  [0m [36;41m  Co10r  [0m [36;42m  Co10r  [0m [36;43m  Co10r  [0m [36;44m  Co10r  [0m [36;45m  Co10r  [0m [36;46m  Co10r  [0m [36;47m  Co10r  [0m [36;49m  Co10r  [0m
+   37m [37m  Co10r   [37;40m  Co10r  [0m [37;41m  Co10r  [0m [37;42m  Co10r  [0m [37;43m  Co10r  [0m [37;44m  Co10r  [0m [37;45m  Co10r  [0m [37;46m  Co10r  [0m [37;47m  Co10r  [0m [37;49m  Co10r  [0m
+   39m [39m  Co10r   [39;40m  Co10r  [0m [39;41m  Co10r  [0m [39;42m  Co10r  [0m [39;43m  Co10r  [0m [39;44m  Co10r  [0m [39;45m  Co10r  [0m [39;46m  Co10r  [0m [39;47m  Co10r  [0m [39;49m  Co10r  [0m
+   90m [90m  Co10r   [90;40m  Co10r  [0m [90;41m  Co10r  [0m [90;42m  Co10r  [0m [90;43m  Co10r  [0m [90;44m  Co10r  [0m [90;45m  Co10r  [0m [90;46m  Co10r  [0m [90;47m  Co10r  [0m [90;49m  Co10r  [0m
+   91m [91m  Co10r   [91;40m  Co10r  [0m [91;41m  Co10r  [0m [91;42m  Co10r  [0m [91;43m  Co10r  [0m [91;44m  Co10r  [0m [91;45m  Co10r  [0m [91;46m  Co10r  [0m [91;47m  Co10r  [0m [91;49m  Co10r  [0m
+   92m [92m  Co10r   [92;40m  Co10r  [0m [92;41m  Co10r  [0m [92;42m  Co10r  [0m [92;43m  Co10r  [0m [92;44m  Co10r  [0m [92;45m  Co10r  [0m [92;46m  Co10r  [0m [92;47m  Co10r  [0m [92;49m  Co10r  [0m
+   93m [93m  Co10r   [93;40m  Co10r  [0m [93;41m  Co10r  [0m [93;42m  Co10r  [0m [93;43m  Co10r  [0m [93;44m  Co10r  [0m [93;45m  Co10r  [0m [93;46m  Co10r  [0m [93;47m  Co10r  [0m [93;49m  Co10r  [0m
+   94m [94m  Co10r   [94;40m  Co10r  [0m [94;41m  Co10r  [0m [94;42m  Co10r  [0m [94;43m  Co10r  [0m [94;44m  Co10r  [0m [94;45m  Co10r  [0m [94;46m  Co10r  [0m [94;47m  Co10r  [0m [94;49m  Co10r  [0m
+   95m [95m  Co10r   [95;40m  Co10r  [0m [95;41m  Co10r  [0m [95;42m  Co10r  [0m [95;43m  Co10r  [0m [95;44m  Co10r  [0m [95;45m  Co10r  [0m [95;46m  Co10r  [0m [95;47m  Co10r  [0m [95;49m  Co10r  [0m
+   96m [96m  Co10r   [96;40m  Co10r  [0m [96;41m  Co10r  [0m [96;42m  Co10r  [0m [96;43m  Co10r  [0m [96;44m  Co10r  [0m [96;45m  Co10r  [0m [96;46m  Co10r  [0m [96;47m  Co10r  [0m [96;49m  Co10r  [0m
+   97m [97m  Co10r   [97;40m  Co10r  [0m [97;41m  Co10r  [0m [97;42m  Co10r  [0m [97;43m  Co10r  [0m [97;44m  Co10r  [0m [97;45m  Co10r  [0m [97;46m  Co10r  [0m [97;47m  Co10r  [0m [97;49m  Co10r  [0m
+
+
+                   100m      101m      102m      103m      104m      105m      106m      107m
+     m [m  Co10r   [100m  Co10r  [0m [101m  Co10r  [0m [102m  Co10r  [0m [103m  Co10r  [0m [104m  Co10r  [0m [105m  Co10r  [0m [106m  Co10r  [0m [107m  Co10r  [0m
+   30m [30m  Co10r   [30;100m  Co10r  [0m [30;101m  Co10r  [0m [30;102m  Co10r  [0m [30;103m  Co10r  [0m [30;104m  Co10r  [0m [30;105m  Co10r  [0m [30;106m  Co10r  [0m [30;107m  Co10r  [0m
+   31m [31m  Co10r   [31;100m  Co10r  [0m [31;101m  Co10r  [0m [31;102m  Co10r  [0m [31;103m  Co10r  [0m [31;104m  Co10r  [0m [31;105m  Co10r  [0m [31;106m  Co10r  [0m [31;107m  Co10r  [0m
+   32m [32m  Co10r   [32;100m  Co10r  [0m [32;101m  Co10r  [0m [32;102m  Co10r  [0m [32;103m  Co10r  [0m [32;104m  Co10r  [0m [32;105m  Co10r  [0m [32;106m  Co10r  [0m [32;107m  Co10r  [0m
+   33m [33m  Co10r   [33;100m  Co10r  [0m [33;101m  Co10r  [0m [33;102m  Co10r  [0m [33;103m  Co10r  [0m [33;104m  Co10r  [0m [33;105m  Co10r  [0m [33;106m  Co10r  [0m [33;107m  Co10r  [0m
+   34m [34m  Co10r   [34;100m  Co10r  [0m [34;101m  Co10r  [0m [34;102m  Co10r  [0m [34;103m  Co10r  [0m [34;104m  Co10r  [0m [34;105m  Co10r  [0m [34;106m  Co10r  [0m [34;107m  Co10r  [0m
+   35m [35m  Co10r   [35;100m  Co10r  [0m [35;101m  Co10r  [0m [35;102m  Co10r  [0m [35;103m  Co10r  [0m [35;104m  Co10r  [0m [35;105m  Co10r  [0m [35;106m  Co10r  [0m [35;107m  Co10r  [0m
+   36m [36m  Co10r   [36;100m  Co10r  [0m [36;101m  Co10r  [0m [36;102m  Co10r  [0m [36;103m  Co10r  [0m [36;104m  Co10r  [0m [36;105m  Co10r  [0m [36;106m  Co10r  [0m [36;107m  Co10r  [0m
+   37m [37m  Co10r   [37;100m  Co10r  [0m [37;101m  Co10r  [0m [37;102m  Co10r  [0m [37;103m  Co10r  [0m [37;104m  Co10r  [0m [37;105m  Co10r  [0m [37;106m  Co10r  [0m [37;107m  Co10r  [0m
+   39m [39m  Co10r   [39;100m  Co10r  [0m [39;101m  Co10r  [0m [39;102m  Co10r  [0m [39;103m  Co10r  [0m [39;104m  Co10r  [0m [39;105m  Co10r  [0m [39;106m  Co10r  [0m [39;107m  Co10r  [0m
+   90m [90m  Co10r   [90;100m  Co10r  [0m [90;101m  Co10r  [0m [90;102m  Co10r  [0m [90;103m  Co10r  [0m [90;104m  Co10r  [0m [90;105m  Co10r  [0m [90;106m  Co10r  [0m [90;107m  Co10r  [0m
+   91m [91m  Co10r   [91;100m  Co10r  [0m [91;101m  Co10r  [0m [91;102m  Co10r  [0m [91;103m  Co10r  [0m [91;104m  Co10r  [0m [91;105m  Co10r  [0m [91;106m  Co10r  [0m [91;107m  Co10r  [0m
+   92m [92m  Co10r   [92;100m  Co10r  [0m [92;101m  Co10r  [0m [92;102m  Co10r  [0m [92;103m  Co10r  [0m [92;104m  Co10r  [0m [92;105m  Co10r  [0m [92;106m  Co10r  [0m [92;107m  Co10r  [0m
+   93m [93m  Co10r   [93;100m  Co10r  [0m [93;101m  Co10r  [0m [93;102m  Co10r  [0m [93;103m  Co10r  [0m [93;104m  Co10r  [0m [93;105m  Co10r  [0m [93;106m  Co10r  [0m [93;107m  Co10r  [0m
+   94m [94m  Co10r   [94;100m  Co10r  [0m [94;101m  Co10r  [0m [94;102m  Co10r  [0m [94;103m  Co10r  [0m [94;104m  Co10r  [0m [94;105m  Co10r  [0m [94;106m  Co10r  [0m [94;107m  Co10r  [0m
+   95m [95m  Co10r   [95;100m  Co10r  [0m [95;101m  Co10r  [0m [95;102m  Co10r  [0m [95;103m  Co10r  [0m [95;104m  Co10r  [0m [95;105m  Co10r  [0m [95;106m  Co10r  [0m [95;107m  Co10r  [0m
+   96m [96m  Co10r   [96;100m  Co10r  [0m [96;101m  Co10r  [0m [96;102m  Co10r  [0m [96;103m  Co10r  [0m [96;104m  Co10r  [0m [96;105m  Co10r  [0m [96;106m  Co10r  [0m [96;107m  Co10r  [0m
+   97m [97m  Co10r   [97;100m  Co10r  [0m [97;101m  Co10r  [0m [97;102m  Co10r  [0m [97;103m  Co10r  [0m [97;104m  Co10r  [0m [97;105m  Co10r  [0m [97;106m  Co10r  [0m [97;107m  Co10r  [0m
+
+
+                    1m        2m        4m        8m       1;2m      1;4m      2;4m
+     m [m  Co10r   [1m  Co10r  [0m [2m  Co10r  [0m [4m  Co10r  [0m [8m  Co10r  [0m [1;2m  Co10r  [0m [1;4m  Co10r  [0m [2;4m  Co10r  [0m
+   30m [30m  Co10r   [30;1m  Co10r  [0m [30;2m  Co10r  [0m [30;4m  Co10r  [0m [30;8m  Co10r  [0m [30;1;2m  Co10r  [0m [30;1;4m  Co10r  [0m [30;2;4m  Co10r  [0m
+   31m [31m  Co10r   [31;1m  Co10r  [0m [31;2m  Co10r  [0m [31;4m  Co10r  [0m [31;8m  Co10r  [0m [31;1;2m  Co10r  [0m [31;1;4m  Co10r  [0m [31;2;4m  Co10r  [0m
+   32m [32m  Co10r   [32;1m  Co10r  [0m [32;2m  Co10r  [0m [32;4m  Co10r  [0m [32;8m  Co10r  [0m [32;1;2m  Co10r  [0m [32;1;4m  Co10r  [0m [32;2;4m  Co10r  [0m
+   33m [33m  Co10r   [33;1m  Co10r  [0m [33;2m  Co10r  [0m [33;4m  Co10r  [0m [33;8m  Co10r  [0m [33;1;2m  Co10r  [0m [33;1;4m  Co10r  [0m [33;2;4m  Co10r  [0m
+   34m [34m  Co10r   [34;1m  Co10r  [0m [34;2m  Co10r  [0m [34;4m  Co10r  [0m [34;8m  Co10r  [0m [34;1;2m  Co10r  [0m [34;1;4m  Co10r  [0m [34;2;4m  Co10r  [0m
+   35m [35m  Co10r   [35;1m  Co10r  [0m [35;2m  Co10r  [0m [35;4m  Co10r  [0m [35;8m  Co10r  [0m [35;1;2m  Co10r  [0m [35;1;4m  Co10r  [0m [35;2;4m  Co10r  [0m
+   36m [36m  Co10r   [36;1m  Co10r  [0m [36;2m  Co10r  [0m [36;4m  Co10r  [0m [36;8m  Co10r  [0m [36;1;2m  Co10r  [0m [36;1;4m  Co10r  [0m [36;2;4m  Co10r  [0m
+   37m [37m  Co10r   [37;1m  Co10r  [0m [37;2m  Co10r  [0m [37;4m  Co10r  [0m [37;8m  Co10r  [0m [37;1;2m  Co10r  [0m [37;1;4m  Co10r  [0m [37;2;4m  Co10r  [0m
+   39m [39m  Co10r   [39;1m  Co10r  [0m [39;2m  Co10r  [0m [39;4m  Co10r  [0m [39;8m  Co10r  [0m [39;1;2m  Co10r  [0m [39;1;4m  Co10r  [0m [39;2;4m  Co10r  [0m
+   90m [90m  Co10r   [90;1m  Co10r  [0m [90;2m  Co10r  [0m [90;4m  Co10r  [0m [90;8m  Co10r  [0m [90;1;2m  Co10r  [0m [90;1;4m  Co10r  [0m [90;2;4m  Co10r  [0m
+   91m [91m  Co10r   [91;1m  Co10r  [0m [91;2m  Co10r  [0m [91;4m  Co10r  [0m [91;8m  Co10r  [0m [91;1;2m  Co10r  [0m [91;1;4m  Co10r  [0m [91;2;4m  Co10r  [0m
+   92m [92m  Co10r   [92;1m  Co10r  [0m [92;2m  Co10r  [0m [92;4m  Co10r  [0m [92;8m  Co10r  [0m [92;1;2m  Co10r  [0m [92;1;4m  Co10r  [0m [92;2;4m  Co10r  [0m
+   93m [93m  Co10r   [93;1m  Co10r  [0m [93;2m  Co10r  [0m [93;4m  Co10r  [0m [93;8m  Co10r  [0m [93;1;2m  Co10r  [0m [93;1;4m  Co10r  [0m [93;2;4m  Co10r  [0m
+   94m [94m  Co10r   [94;1m  Co10r  [0m [94;2m  Co10r  [0m [94;4m  Co10r  [0m [94;8m  Co10r  [0m [94;1;2m  Co10r  [0m [94;1;4m  Co10r  [0m [94;2;4m  Co10r  [0m
+   95m [95m  Co10r   [95;1m  Co10r  [0m [95;2m  Co10r  [0m [95;4m  Co10r  [0m [95;8m  Co10r  [0m [95;1;2m  Co10r  [0m [95;1;4m  Co10r  [0m [95;2;4m  Co10r  [0m
+   96m [96m  Co10r   [96;1m  Co10r  [0m [96;2m  Co10r  [0m [96;4m  Co10r  [0m [96;8m  Co10r  [0m [96;1;2m  Co10r  [0m [96;1;4m  Co10r  [0m [96;2;4m  Co10r  [0m
+   97m [97m  Co10r   [97;1m  Co10r  [0m [97;2m  Co10r  [0m [97;4m  Co10r  [0m [97;8m  Co10r  [0m [97;1;2m  Co10r  [0m [97;1;4m  Co10r  [0m [97;2;4m  Co10r  [0m
