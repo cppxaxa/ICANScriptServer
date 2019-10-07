@@ -2672,3 +2672,4 @@ OSError: [Errno 8] Exec format error: '/home/cppxaxa/Downloads/ICAN/ICANScriptSe
 2019-10-07 18:55:05,168 [tornado.access.INFO] 200 POST /executions/stop/131 (127.0.0.1) 1.20ms
 2019-10-07 18:55:06,478 [web_server.INFO] localhost disconnected
 2019-10-07 18:55:06,485 [tornado.access.INFO] 200 POST /executions/cleanup/131 (127.0.0.1) 1.26ms
+2019-10-07 18:57:20,158 [web_server.INFO] Stopping server on interrupt
